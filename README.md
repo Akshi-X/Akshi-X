@@ -1,4 +1,4 @@
-System Online: Welcome, I'm Hareekshith
+System Online: Welcome, Myself Akshith
 
 > 🧑‍💻 Code. Break. Build. Repeat.
 
@@ -25,8 +25,8 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ## 📈 GitHub Intel
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hareekshith&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hareekshith&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshi-X&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshi-X&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
