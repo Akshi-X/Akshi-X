@@ -39,13 +39,6 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 
 ---
 
-### 🏆 Trophies Unlocked
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshi-X&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
 
 
 ## 🔗 Connect with Me
