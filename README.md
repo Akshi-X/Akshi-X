@@ -11,7 +11,7 @@
 
 ---
 
-# ⚡ System Profile  
+## ⚡ System Profile  
 
 ```bash
 > Booting AkshyyOS...
@@ -30,15 +30,20 @@
 🚀 Goal: Become a Cybersecurity Engineer / Founder
 
 
-# 🧑‍💻 Core Expertise
+## 🧑‍💻 Core Expertise
 🔹 Web Application Security
 🔹 Network Traffic Analysis
 🔹 OSINT & Reconnaissance
 🔹 Reverse Engineering (Basics)
 🔹 Secure Coding Practices
 
-# ⚒️ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=linux,kali,npm,vscode,docker,html,css,js,react,powershell,flask,python,mongodb,vercel,git,github)
+---
+
+## ⚒️ My Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=linux,npm,vscode,docker,html,css,js,react,powershell,flask,python,mongodb,vercel,git,github)
+
+---
 
 
 # 🛠️ Cyber Arsenal
@@ -55,10 +60,16 @@
 
 
 # 🧠 Currently Grinding
-+ Advanced Burp Suite Techniques
-+ Wireshark
++ Advanced Burp Suite Techniques+ Wireshark
 + Bug Bounty Hunting
 + Web3 Security Fundamentals
 
 
+## 🔗 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshithmaheshk/)
+- 📧 `akshithmaheshedu@gmail.com`
+
 > “Every Accomplishment Starts With The Decision To Try. ”  
+
+
