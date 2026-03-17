@@ -46,4 +46,4 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshithmaheshk/)
 - 📧 `akshithmaheshedu@gmail.com`
 
-> “The quieter you become, the more you can hear.”  
+> “Every Accomplishment Starts With The Decision To Try. ”  
