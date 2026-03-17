@@ -2,16 +2,16 @@ System Online: Welcome, Myself Akshith
 
 > 🧑‍💻 Code. Break. Build. Repeat.
 
-I’m a passionate developer and cybersecurity enthusiast, reverse-engineering how things work and building useful, impactful tools along the way. Currently decoding the world of Web3, OSINT, DevOps, and more...
+I’m a passionate developer and cybersecurity enthusiast, reverse-engineering how things work and building useful, impactful tools along the way. Currently decoding the world of Web3, OSINT, and more...
 
 ---
 
 ## 🧬 About Me
 
 - 🛡️ CyberSecurity student @ **VITC University**
-- 🧪 Experimenting with: `Web3`, `AI`, `OSINT`, `CTFs`, `Bruteforcing`, `DevOps`
+- 🧪 Experimenting with: `Web3`, `AI`, `OSINT`, `CTFs`
 - 👨‍💻 Hardcore into: `C++`, `Python`, `Linux`, `Git`, and breaking things (legally 😏)
-- 🛠️ Preferred loadout: `Neovim`, `Arch`, `GitHub`, `Bash`, `Python`
+- 🛠️ Preferred loadout:  `Arch`, `GitHub`,  `Python`
 - 🌐 Actively fixing: **Redacted**
 
 ---
@@ -34,7 +34,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hareekshith&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshi-X&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -42,22 +42,15 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 ### 🏆 Trophies Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hareekshith&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshi-X&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🧠 Featured Builds
-
-- 🔍 [**Keylogger Detector**](https://github.com/Hareekshith/keylogger-detection) — Detects Linux keyloggers using behavioral patterns
-- 🛰️ [**TEED-TS-WEB**](https://github.com/ERROR-SIDDH/TEED-TS-WEB) — Full-stack + hardware system for seamless entry-exit tracking
-- 🗓️ [**TimeTable-Generator**](https://github.com/Hareekshith/TimeTable-Generator) - Full-Stack project which generates timetable in seconds
-
----
 
 ## 🔗 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hareekshith-as-276663313/)
-- 📧 `hareekshith@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshithmaheshk/)
+- 📧 `akshithmaheshedu@gmail.com`
 
 > “The quieter you become, the more you can hear.”  
