@@ -11,7 +11,7 @@ I’m a passionate developer and cybersecurity enthusiast, reverse-engineering h
 - 🛡️ CyberSecurity student @ **VITC University**
 - 🧪 Experimenting with: `Web3`, `AI`, `OSINT`, `CTFs`
 - 👨‍💻 Hardcore into: `C++`, `Python`, `Linux`, `Git`, and breaking things (legally 😏)
-- 🛠️ Preferred loadout:  `Arch`, `GitHub`,  `Python`
+- 🛠️ Preferred loadout:   `GitHub`,  `Python`
 - 🌐 Actively fixing: **Redacted**
 
 ---
