@@ -38,7 +38,7 @@
 🔹 Secure Coding Practices
 
 # ⚒️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,docker,js,react,html,css,mongodb,flask,vscode" /> </p>
+![Tech Stack](https://skillicons.dev/icons?i=linux,kali,npm,vscode,docker,html,css,js,react,powershell,flask,python,mongodb,vercel,git,github)
 
 
 # 🛠️ Cyber Arsenal
