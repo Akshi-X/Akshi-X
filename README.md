@@ -14,7 +14,7 @@
 # ⚡ System Profile  
 
 ```bash
-> Booting AkshithOS...
+> Booting AkshyyOS...
 > Role: Cybersecurity Enthusiast
 > Status: Actively Learning & Building
 > Mode: Offensive + Defensive Security
