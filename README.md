@@ -19,7 +19,6 @@
 > Status: Actively Learning & Building
 > Mode: Offensive + Defensive Security
 
-```
 🛡️ Cybersecurity Student @ VIT Chennai
 
 🕵️ Focus: Web Security | OSINT | Network Analysis
@@ -30,6 +29,7 @@
 
 🚀 Goal: Become a Cybersecurity Engineer / Founder
 
+```
 
 ## 🧑‍💻 Core Expertise
 🔹 Web Application Security
