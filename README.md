@@ -40,19 +40,18 @@
 
 ---
 
-## ⚒️ My Stack
+## 📊 GitHub Analytics
 
-![Tech Stack](https://skillicons.dev/icons?i=linux,npm,vscode,docker,html,css,js,react,powershell,flask,python,mongodb,vercel,git,github)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshi-X&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Akshi-X&theme=tokyonight" width="48%" />
+</p>
 
----
+## 📈 Languages
 
-# 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshi-X&show_icons=true&theme=tokyonight&count_private=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=Akshi-X&theme=tokyonight" width="48%" /> </p>
-
-# 📈 Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshi-X&layout=compact&theme=tokyonight" /> </p>
-
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Akshi-X&layout=compact&theme=tokyonight" />
+</p>
 
 # 🧠 Currently Grinding
 + Advanced Burp Suite Techniques+ Wireshark
