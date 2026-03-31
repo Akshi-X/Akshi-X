@@ -61,7 +61,7 @@
 
 ## 🔗 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshithmaheshk/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshith%20Mahesh%20K-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshithmaheshk/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Akshi--X-181717?logo=github)](https://github.com/Akshi-X)
 - 📧 `akshithmaheshedu@gmail.com`
 
