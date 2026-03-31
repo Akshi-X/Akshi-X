@@ -62,6 +62,7 @@
 ## 🔗 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshithmaheshk/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Akshi--X-181717?logo=github)](https://github.com/Akshi-X)
 - 📧 `akshithmaheshedu@gmail.com`
 
 > “Every Accomplishment Starts With The Decision To Try. ”  
