@@ -40,20 +40,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshi-X&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Akshi-X&theme=tokyonight" width="48%" />
-</p>
+[![Akshi-X's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshi-X&theme=tokyo-night)](https://github.com/Akshi-X)
 
-## 📈 Languages
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Akshi-X&layout=compact&theme=tokyonight" />
-</p>
-
-# 🧠 Currently Grinding
+## 🧠 Currently Grinding
 + Advanced Burp Suite Techniques+ Wireshark
 + Bug Bounty Hunting
 + Web3 Security Fundamentals
