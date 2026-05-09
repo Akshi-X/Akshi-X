@@ -39,13 +39,6 @@
 🔹 Secure Coding Practices
 
 ---
-
-## 📊 GitHub Activity
-
-[![Akshi-X's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshi-X&theme=tokyo-night)](https://github.com/Akshi-X)
-
----
-
 ## 🧠 Currently Grinding
 + Advanced Burp Suite Techniques+ Wireshark
 + Bug Bounty Hunting
